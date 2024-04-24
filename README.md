@@ -1,5 +1,5 @@
 # Phising-Dio
-Estudo de projeto na pratica de Phising-Dio
+Estudo de projeto na pratica de Phising, em ciber segurança.
 
  Ferramentas:
  
